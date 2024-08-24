@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm IVAN-V1</h1>
 <h3 align="center">A passionate frontend and backend developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan-v1&label=Profile%20views&color=0e75b6&style=flat" alt="ivan-v1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VargasV1&label=Profile%20views&color=0e75b6&style=flat" alt="VargasV1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivan-v1" alt="ivan-v1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VargasV1" alt="VargasV1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
